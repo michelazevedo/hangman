@@ -18,7 +18,7 @@
 - Go to http://localhost:8080/ 
 
 ## Game operation
-- The game will pick a ramdom word for you;
-- You should pick a word from the "Word buttons painel";
-- Try to guess the word's characters. You have 6 changes to guess the word;
+- The game will pick a random word for you;
+- You should pick a char from the "Buttons Painel";
+- Try to guess the word's characters. You have 6 tries to guess the word;
 - The game ends and restarts if you run out of attempts or if you guess the word correctly.
