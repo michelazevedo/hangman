@@ -1,9 +1,13 @@
 # Hangman Web (Angular) + Spring Boot App
 
+## Repositories
+- Frontend: https://github.com/michelazevedo/hangman-web
+- Backend: https://github.com/michelazevedo/hangman
+
 ## Build
-- Clone the web app repo: git clone git@github.com:michelazevedo/hangman-web.git
-- Clone the spring boot app repo: git clone git@github.com:michelazevedo/hangman.git
-- Enter the web project directory (hangman-web) and run: npm install
+- Clone the web app (frontend) repo: git clone git@github.com:michelazevedo/hangman-web.git
+- Clone the spring boot app (backend) repo: git clone git@github.com:michelazevedo/hangman.git
+- Enter the web app project directory (hangman-web) and run: npm install
 - Compile the source: ng build --prod (assuming npm is installed)
 - Copy the resources from hangman-web\dist\hangman-web to the directory hangman\src\main\resources\static
 - In the spring boot app directory (hangman) run: mvnw clean package
